@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone="yes"?>
+
+<!DOCTYPE resources [
+		<!ELEMENT resources (string)*>
+		<!ELEMENT string (#PCDATA)>
+		<!ATTLIST string name ID #IMPLIED>
+		]>
+
+
+<resources>
+	<string name="ridi">ریدی که رویای پرداز من</string>
+	<string name="here">شما اینجا هستید:</string>
+</resources>

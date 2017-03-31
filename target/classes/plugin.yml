@@ -1,0 +1,43 @@
+name: ProtectMyRegion
+main: ir.rahimy.protect_realmlm.base.ProtectMyRegion
+version: 1.0
+commands:
+  pos:
+    description: Display
+    usage: "Usage: /pos"
+
+  debug:
+    description: Toggles
+    usage: "usage: /debug"
+
+  shend:
+    description: send
+    usage: "usage: /shend"
+
+  mytime:
+    description: player's time
+    usage: "usage: /mytime"
+
+  mystats:
+    description: player's stats
+    usage: "usage: /mystats"
+
+  lettherebelight:
+    description: gives a torch
+    usage: "usage: /lettherebelight"
+
+  summonblock:
+    description: gives a block
+    usage: "usage: /summonblock [material name] [distance]"
+
+  fetchme:
+      description: fetchs something in hand
+      usage: "usage: /fetchme [material name] [count]"
+
+  enrichme:
+        description: gives you diamonds
+        usage: "usage: /enrichme"
+
+  modeme:
+    description: modes you
+    usage: "modeme"

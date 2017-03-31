@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProtectMyRegion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProtectMyRegion_jar</output-path>
+    <root id="archive" name="FirstPlugin.jar">
+      <element id="module-output" name="ProtectMyRegion" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: fr.xephi:authme:5.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/fr/xephi/authme/5.2-SNAPSHOT/authme-5.2-20160512.225341-1004.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/fr/xephi/authme/5.2-SNAPSHOT/authme-5.2-20160512.225341-1004-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/fr/xephi/authme/5.2-SNAPSHOT/authme-5.2-20160512.225341-1004-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
